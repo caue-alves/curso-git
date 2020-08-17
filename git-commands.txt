@@ -117,6 +117,21 @@ Remover alterações:
 $ git checkout --<nome_arquivo>
 
 
-Resetar alterações depois de commit:
+Resetar alterações:
 
 $ git reset <nome_arquivo>
+
+
+Desfazer commit:
+
+$ git revert #oHa5hd0c0mm1t
+
+
+Salvar alterações temporariamente sem criar commit
+
+$ git stash
+
+Lista commits em stash
+
+$ git stash list
+
