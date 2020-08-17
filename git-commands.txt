@@ -79,3 +79,21 @@ $ git commit -m "msg"
 Push:
 
 $ git push origin master
+
+
+Ver as branches:
+
+
+$ git branch
+
+
+Criar uma branch
+
+
+$ git branch o_nome_dela
+
+
+Ir para um branch
+
+
+$ git checkout o_nome_dela
