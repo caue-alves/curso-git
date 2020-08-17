@@ -53,7 +53,7 @@ $ git pull Id_do_remote_server a_branch
 
 Remover:
 
-$ git remove arquivo
+$ git rm arquivo -r
 
 
 Dar o status:
