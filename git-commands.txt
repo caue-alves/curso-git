@@ -95,5 +95,10 @@ $ git branch o_nome_dela
 
 Ir para um branch
 
-
 $ git checkout o_nome_dela
+
+
+Criar um branch e ir até ele:
+
+$ git cheackout -b o_nome_dela
+
