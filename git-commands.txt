@@ -1,0 +1,67 @@
+Começar:
+
+$ git init
+
+Com bare:
+
+$ git init --bare
+
+
+Adicionar arquivos:
+
+$ git add .
+
+
+Commit:
+
+$ git commit -m "msg do commit"
+
+
+Ver Commits:
+
+
+$ git log
+
+Com apenas uma linha:
+
+
+$ git log --oneline
+
+
+
+Upload para o GitHub:
+
+$ git push origin -u master
+
+
+
+Criar ID de remote:
+
+$ git remote add Nome_do_remote_server C:/Path
+
+
+
+Fazer o Push:
+
+$ git push Id_do_remote_server a_branch
+
+
+Fazer o Pull:
+
+$ git pull Id_do_remote_server a_branch
+
+
+Remover:
+
+$ git remove arquivo
+
+
+Dar o status:
+
+$ git status
+
+
+Ignorar pastas e/ou arquivos:
+
+criar o .gitignore na pasta do repo
+
