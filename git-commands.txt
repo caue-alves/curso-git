@@ -28,6 +28,10 @@ Com apenas uma linha:
 $ git log --oneline
 
 
+Com um gráfico para visualizar em que branch:
+
+$ git log --graph
+
 
 Upload para o GitHub:
 
@@ -100,5 +104,14 @@ $ git checkout o_nome_dela
 
 Criar um branch e ir até ele:
 
-$ git cheackout -b o_nome_dela
+$ git checkout -b o_nome_dela
 
+
+Atualizar commits com outra branch:
+
+$ git rebase o_nome_dela 
+
+
+Remover alterações:
+
+$ git checkout --<nome_arquivo>
