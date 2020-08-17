@@ -135,3 +135,19 @@ Lista commits em stash
 
 $ git stash list
 
+Tira a última alteração da stash
+
+$ git stash pop
+
+
+Mostrar a diferença entre códigos:
+
+$ git diff 0Ha5hd0c0mm1t..0utRaHa5h 
+
+Cria Tag:
+
+$ git tag -a v0.1.0
+
+Mostra a tag:
+
+$ git tag
