@@ -65,3 +65,17 @@ Ignorar pastas e/ou arquivos:
 
 criar o .gitignore na pasta do repo
 
+
+Processo GitHub:
+
+Init:
+
+$ git remote add origin https:\\user\repo.git
+
+commit:
+
+$ git commit -m "msg"
+
+Push:
+
+$ git push origin master
