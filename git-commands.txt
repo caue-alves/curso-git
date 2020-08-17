@@ -115,3 +115,8 @@ $ git rebase o_nome_dela
 Remover alterações:
 
 $ git checkout --<nome_arquivo>
+
+
+Resetar alterações depois de commit:
+
+$ git reset <nome_arquivo>
